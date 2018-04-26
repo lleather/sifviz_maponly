@@ -2,7 +2,7 @@
 
 **Group Members:** Lila Leatherman and Bran Black
 
-**Motivation: **Both Lila and Bran have an interest in developing tools capable of expressing change in remotely sensed data over time. The problem of displaying shifts in SIF responses over time is a good representation of both the type of input data and change detection techniques Lila and Bran plan to work with in future research, making this project an excellent case study both students may adapt for future uses.
+**Motivation:**Both Lila and Bran have an interest in developing tools capable of expressing change in remotely sensed data over time. The problem of displaying shifts in SIF responses over time is a good representation of both the type of input data and change detection techniques Lila and Bran plan to work with in future research, making this project an excellent case study both students may adapt for future uses.
 
 **Project Description:** We intend to create a tool capable of displaying SIF data by user-selected region over a specified time period. Special focus will be given to providing a means for users to detect changes within SIF over time, such as seasonal shifts in fluorescence or vegetative responses to drought. The shift in SIF values over the prescribed time period will be displayed as a heat map, either as a static map output or as an animation over time. Ideally, we will include various general zonal statistics of the selected area over the designated timeframe (mean, variance, average time series over the location, etc.). This analysis-heavy multi-view will be centered on using different methods of visualizing change over space and time. 
 
