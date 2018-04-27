@@ -22,10 +22,6 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
 
 [d3heatmap](https://blog.rstudio.com/2015/06/24/d3heatmap/): a geovizualization package capable of similar to the heatmap and heatmap.2 packages, but with expanded user interaction (zooming, highlighting, etc.).
 
-[change detection with Jupyter and Python](https://developers.arcgis.com/python/sample-notebooks/building-a-change-detection-app-using-jupyter-dashboard/>=) : this ArcGIS developer post describes the process of creating a change detection app through Jupyter Dashboard and the Python API.
-
-[A World of Change](http://news-lab-trends-experiment.appspot.com/) : potential method of user interface to select data
-
 [Map-with-Latitude-Longitude](http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6) : simpler user interface where data selected by points alone
 
 [contour plot](https://bl.ocks.org/mbostock/4241134): contour plot of data that may be useful in displaying difference in SIF data over time
