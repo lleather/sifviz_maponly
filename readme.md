@@ -29,3 +29,23 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
 [Geoplotlib](https://www.researchgate.net/publication/305983877_Geoplotlib_a_Python_Toolbox_for_Visualizing_Geographical_Data): A Python toolbox that include the capablity to produce heatmaps
 
 [myheatmap](https://myheatmap.com/): example Mapbox geovisualization aimed at heatmapping
+
+**Notes and Potential Packages:**
+
+- [Vector Field Animation](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/) : to visualize "transfer of energy." Kind of inappropriate for phenomena that occur in sessile organisms maybe? But-- a cool animation.
+The [dynamic styles](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/example_VectorFieldAnim_Styles_Dynamic.html) option could be used to toggle between visualizing the dynamic animation, and viewing a more static map of a selected time series.
+- Use a dc time slider to change / shift the view or animation of the basemap? E.g.: [time sliders](http://dc-js.github.io/dc.js/examples/time-intervals.html)
+    - or a [range series](http://dc-js.github.io/dc.js/examples/range-series.html) to visualize a selected part of a time series in more detail
+    - lots of good [dc examples here](http://dc-js.github.io/dc.js/examples/)
+    - plus: having a time series functionality to show the value + point at a given point in a time series e.g. [this](https://www.metricsgraphicsjs.org/)
+    - alternate time series viewing point value at given location: [this](http://mcaule.github.io/d3-timeseries/)
+    - static heatmap plugin for leaflet: https://www.patrick-wied.at/static/heatmapjs/example-heatmap-leaflet.html
+    - timeline plus leaflet map overlay: http://bl.ocks.org/tnightingale/4718717
+    - cubism JS http://square.github.io/cubism/ - better suited for real-time data
+    - object constancy for multiple sets of time series data http://bl.ocks.org/nsonnad/4175202
+    - collection of other time series visualizations http://bl.ocks.org/adamgreenhall/1314483
+    - interactive streamgraph http://bl.ocks.org/WillTurman/4631136
+    - dc switching time intervals http://dc-js.github.io/dc.js/examples/switching-time-intervals.html
+    - leaflet + jquery time slider-- adds markers http://dwilhelm89.github.io/LeafletSlider/
+    - leaflet time dimension demos http://apps.socib.es/Leaflet.TimeDimension/examples/
+    -
