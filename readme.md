@@ -50,4 +50,4 @@ The [dynamic styles](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/exa
     - leaflet time dimension demos http://apps.socib.es/Leaflet.TimeDimension/examples/
     -
 
-- this is an example of a change that i'm going to make 
+- this is an example of a change that i'm going to make
