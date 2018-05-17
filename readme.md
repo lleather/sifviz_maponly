@@ -8,7 +8,7 @@
 
 
 
-##Data:##
+##Data:
 
 Solar-induced chlorophyll fluorescence (SIF) is a relatively new remote sensing index. In contrast to traditional vegetation indices (NDVI, EVI), SIF is connected to the physiology of plant production, rather than the greenness of vegetation. SIF is also more sensitive to intra-annual variation in production related to heat and drought stress. SIF is correlated with the light use efficiency of photosynthesis (LUE; Guanter et al.2014) and with absorbed photosynthetically activeradiation (APAR; Rossini et al. 2010). Thus, SIF provides an ideal proxy for gross primary production (GPP) of an ecosystem.
 
@@ -22,7 +22,7 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
 
 
 
-##Interface Design:##
+##Interface Design:
 
 [d3heatmap](https://blog.rstudio.com/2015/06/24/d3heatmap/): a geovizualization package capable of similar to the heatmap and heatmap.2 packages, but with expanded user interaction (zooming, highlighting, etc.).
 
@@ -53,10 +53,9 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
     - leaflet + jquery time slider-- adds markers http://dwilhelm89.github.io/LeafletSlider/
     - leaflet time dimension demos http://apps.socib.es/Leaflet.TimeDimension/examples/
 
-<<<<<<< HEAD
 
 
-##Design Scheme##
+##Design Scheme
 
 
 
@@ -80,7 +79,7 @@ Concerning fonts, we have outlined a series of **Google Web Font** styles we wil
 
 
 
-***Icons***
+​	***Icons***
 
 For Icons we have considered the following **Glyphicon Halfing** options:
 
@@ -91,6 +90,4 @@ For Icons we have considered the following **Glyphicon Halfing** options:
 ​	***Multimedia***
 
 We do not currently plan to incorporate video files, although if a video proves clarifying or informative for our geovisualization we may include one. We may include and reference images from open source photo sources such as Unsplash or Pixaby.
-=======
-- this is an example of a change that i'm going to make
->>>>>>> dffc92fa6a190f66fbee66da65478c9caf27a6fc
+
