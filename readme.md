@@ -60,7 +60,7 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
 
 
 
-​	***Color Palette***
+​	***Color Palettes***
 
 We intend to use the following (or similar) **color palette** in our geovisualization:
 
