@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="aea28126-c9cf-442d-a405-501e47c2b73d" name="Default" comment="">
+=======
+    <list default="true" id="943b539c-9ad3-4056-bd6b-23ca75369faf" name="Default" comment="">
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +23,13 @@
       <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="119">
               <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+=======
+            <state relative-caret-position="617">
+              <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
             </state>
           </provider>
         </entry>
@@ -43,10 +52,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="125" />
+    <option name="y" value="100" />
+    <option name="width" value="2451" />
+    <option name="height" value="1042" />
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -75,7 +92,10 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+=======
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,6 +114,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="aea28126-c9cf-442d-a405-501e47c2b73d" name="Default" comment="" />
       <created>1526580421464</created>
       <option name="number" value="Default" />
@@ -102,10 +123,19 @@
       <workItem from="1526580423873" duration="155000" />
       <workItem from="1526580606999" duration="1378000" />
       <workItem from="1526585208620" duration="42000" />
+=======
+      <changelist id="943b539c-9ad3-4056-bd6b-23ca75369faf" name="Default" comment="" />
+      <created>1526585174634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526585174634</updated>
+      <workItem from="1526585176152" duration="52000" />
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1575000" />
   </component>
   <component name="ToolWindowManager">
@@ -129,6 +159,31 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+=======
+    <option name="totallyTimeSpent" value="52000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1600" height="828" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24952501" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,8 +195,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="119">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+=======
+        <state relative-caret-position="617">
+          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+>>>>>>> 1f3c6a11d4ecb493026c7d4b5a0778f84780f8f7
         </state>
       </provider>
     </entry>
