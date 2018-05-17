@@ -53,6 +53,7 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
     - leaflet + jquery time slider-- adds markers http://dwilhelm89.github.io/LeafletSlider/
     - leaflet time dimension demos http://apps.socib.es/Leaflet.TimeDimension/examples/
 
+<<<<<<< HEAD
 
 
 ##Design Scheme##
@@ -90,3 +91,6 @@ For Icons we have considered the following **Glyphicon Halfing** options:
 ​	***Multimedia***
 
 We do not currently plan to incorporate video files, although if a video proves clarifying or informative for our geovisualization we may include one. We may include and reference images from open source photo sources such as Unsplash or Pixaby.
+=======
+- this is an example of a change that i'm going to make
+>>>>>>> dffc92fa6a190f66fbee66da65478c9caf27a6fc
