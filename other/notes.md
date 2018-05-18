@@ -50,3 +50,5 @@ https://github.com/cheminfo-js/netcdfjs
 
 - marilynne robinson, the givenness of things. see: john west.
 - also thinking about: that BLUE game / narrative, made by another obie?
+
+- tutorial on mapping time series data: http://www.cartographicperspectives.org/carto/index.php/journal/article/view/cp76-donohue-et-al/1307
