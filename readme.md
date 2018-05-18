@@ -6,6 +6,8 @@
 
 **Project Description:** We intend to create a tool capable of displaying SIF data by user-selected region over a specified time period. Special focus will be given to providing a means for users to detect changes within SIF over time, such as seasonal shifts in fluorescence or vegetative responses to drought. The shift in SIF values over the prescribed time period will be displayed as a heat map, either as a static map output or as an animation over time. Ideally, we will include various general zonal statistics of the selected area over the designated timeframe (mean, variance, average time series over the location, etc.). This analysis-heavy multi-view will be centered on using different methods of visualizing change over space and time. 
 
+
+
 **Data:**
 
 Solar-induced chlorophyll fluorescence (SIF) is a relatively new remote sensing index. In contrast to traditional vegetation indices (NDVI, EVI), SIF is connected to the physiology of plant production, rather than the greenness of vegetation. SIF is also more sensitive to intra-annual variation in production related to heat and drought stress. SIF is correlated with the light use efficiency of photosynthesis (LUE; Guanter et al.2014) and with absorbed photosynthetically activeradiation (APAR; Rossini et al. 2010). Thus, SIF provides an ideal proxy for gross primary production (GPP) of an ecosystem.
@@ -17,6 +19,8 @@ For more info about SIF, check out this article from [NASA's Jet Propulsion Lab]
 ![SIF_from_NASA](https://imagecache.jpl.nasa.gov/images/640x350/earth20140331-640-640x350.jpg)
 
 This image shows chlorophyll fluorescence over the Corn Belt in the central US in July, averaged from 2007-2011.
+
+
 
 **Interface Design:**
 
@@ -33,7 +37,7 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
 **Notes and Potential Packages:**
 
 - [Vector Field Animation](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/) : to visualize "transfer of energy." Kind of inappropriate for phenomena that occur in sessile organisms maybe? But-- a cool animation.
-The [dynamic styles](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/example_VectorFieldAnim_Styles_Dynamic.html) option could be used to toggle between visualizing the dynamic animation, and viewing a more static map of a selected time series.
+  The [dynamic styles](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/example_VectorFieldAnim_Styles_Dynamic.html) option could be used to toggle between visualizing the dynamic animation, and viewing a more static map of a selected time series.
 - Use a dc time slider to change / shift the view or animation of the basemap? E.g.: [time sliders](http://dc-js.github.io/dc.js/examples/time-intervals.html)
     - or a [range series](http://dc-js.github.io/dc.js/examples/range-series.html) to visualize a selected part of a time series in more detail
     - lots of good [dc examples here](http://dc-js.github.io/dc.js/examples/)
@@ -48,4 +52,44 @@ The [dynamic styles](https://ihcantabria.github.io/Leaflet.CanvasLayer.Field/exa
     - dc switching time intervals http://dc-js.github.io/dc.js/examples/switching-time-intervals.html
     - leaflet + jquery time slider-- adds markers http://dwilhelm89.github.io/LeafletSlider/
     - leaflet time dimension demos http://apps.socib.es/Leaflet.TimeDimension/examples/
-    -
+
+
+
+**Design Scheme**
+
+
+
+
+​	***Color Palettes***
+
+We intend to use the following (or similar) **color palette** in our geovisualization:
+
+
+
+![](img/palette.jpg)
+
+
+
+
+
+
+
+
+​	***Fonts***
+
+Concerning fonts, we have outlined a series of **Google Web Font** styles we will explore incorporating into our project:![](img/fonts.jpg)	
+
+
+
+​	***Icons***
+
+For Icons we have considered the following **Glyphicon Halfing** options:
+
+![](img/icons.jpg)
+
+
+
+​	***Multimedia***
+
+We do not currently plan to incorporate video files, although if a video proves clarifying or informative for our geovisualization we may include one. We may include and reference images from open source photo sources such as Unsplash or Pixaby.
+
