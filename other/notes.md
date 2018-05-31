@@ -52,3 +52,19 @@ https://github.com/cheminfo-js/netcdfjs
 - also thinking about: that BLUE game / narrative, made by another obie?
 
 - tutorial on mapping time series data: http://www.cartographicperspectives.org/carto/index.php/journal/article/view/cp76-donohue-et-al/1307
+
+- another leaflet plugin for visualizing time series data https://github.com/skeate/Leaflet.timeline
+
+http://apps.socib.es/Leaflet.TimeDimension/examples/example13.html
+
+- r packages for leaflet and etc??
+
+https://stackoverflow.com/questions/36554605/cant-loop-with-rs-leaflet-package-to-produce-multiple-maps/36587525#36587525
+
+https://esri.github.io/esri-leaflet/examples/visualizing-time-with-feature-layer.html
+
+- humanitarian mapping - socially just mapping - leveraging tech for altruism and activism
+    - e.g., Pix4D used for humanitarian mapping after nepal earthquake, run by Nat Geo explorers
+    - geomatics dept / civil engineering - Richie's dept at OSU - does work like this
+
+    - drone + drone software for accessible mapmaking -- grants for this software / these toys??
