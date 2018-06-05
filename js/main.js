@@ -31,6 +31,10 @@ var corner1 = L.latLng(60, -150),
 map.fitBounds(bounds);  // fit the map bounds to the bounding box specified
 
 
+//set map center
+map.setView(new L.LatLng(35, -40.737), 3);
+//map.panTo(new L.LatLng(40.737, -73.923));
+
 
 // ScalarField derived from a Vectorfield (from IHCantabria Leaflet.CanvasLayer.Field)
 d3.text('assets/vector_field/output_asc/july_jan_mag_u.asc', function (u_n) { // add the U data in ASCIIGrid (.asc) format
@@ -264,7 +268,9 @@ d3.text('assets/vector_field/output_asc/july_jan_mag_u.asc', function (u_n) { //
 
 
 
-        });
+
+
+                            });
 });
 });
         });
